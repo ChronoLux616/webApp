@@ -1,1 +1,1 @@
-web : unicorn
+web : unicorn app.wsgi
